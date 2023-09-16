@@ -46,6 +46,13 @@ Holiday - Holiday/No holiday
 
 Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
+# Work Flow :
+1. Data Collecting
+2. Data Filtering
+3. EDA
+4. Data Preparation
+5. Data Modeling
+
 
 
 
