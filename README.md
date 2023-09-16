@@ -8,6 +8,9 @@ The project progresses to Exploratory Data Analysis (EDA), where insightful visu
 
 Data scaling ensures optimal model performance. Model selection is a deliberate process aimed at choosing the most suitable algorithm. Model evaluation employs various metrics to gauge model performance, with hyperparameter tuning employed to enhance accuracy and mitigate overfitting. Ultimately, a comprehensive comparison between test and train data illuminates the model's performance and errors, ensuring a robust predictive model for Seoul's bike rental demand.
 
+
+
+
 #  Problem description
 
 The Seoul bike sharing demand data set is hosted in the UCI Machine Learning Repository. The data set contains the count of the number of bikes rented at each hour in the Seoul bike-sharing system and information regarding weather conditions.
