@@ -97,7 +97,21 @@ Also we can see people tends to rent less or no bike during no functioning day.
 7. Finally, we applied Gradient boost with parameters selected after grid search which resulted in highest R2 score of 0.958 for training data and 0.933 for test data with very less mean squared error of 6 and 10 in training as well as in test data.
 
 
-https://colab.research.google.com/drive/1JlMgtPrc4XDOdhoB4GKe5SJOcu0fcjSE#scrollTo=SU42YQFWypsf&line=1&uniqifier=1
+|Name|Train_Time|Train_R2_Score|Test_R2_Score|Test_RMSE_Score|
+|---|---|---|---|---|
+|LinearRegression:	|0.008595	|0.647891	|0.658364	|6.435239|
+1	Lasso:	0.008617	0.636225	0.643483	6.573891
+2	Ridge:	0.006999	0.647891	0.658356	6.435309
+3	KNeighborsRegressor:	0.026799	0.759540	0.634925	6.652328
+4	SVR:	1.694278	0.457188	0.465150	8.051900
+5	DecisionTree	0.043268	1.000000	0.796217	4.970115
+6	RandomForest	2.709142	0.985689	0.888823	3.671046
+7	ExtraTreeRegressor :	1.870717	1.000000	0.895523	3.558714
+8	GradientBoostingRegressor:	0.893459	0.888886	0.872145	3.936779
+9	XGBRegressor:	0.538134	0.977729	0.898301	3.511089
+10	Light-GBM:	0.191949	0.970815	0.907160	3.354671
+11	MLPRegressor:	2.435042	0.046814	0.043449	10.768041
+
 
 
 
