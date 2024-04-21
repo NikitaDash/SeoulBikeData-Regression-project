@@ -97,5 +97,8 @@ Also we can see people tends to rent less or no bike during no functioning day.
 7. Finally, we applied Gradient boost with parameters selected after grid search which resulted in highest R2 score of 0.958 for training data and 0.933 for test data with very less mean squared error of 6 and 10 in training as well as in test data.
 
 
+https://colab.research.google.com/drive/1JlMgtPrc4XDOdhoB4GKe5SJOcu0fcjSE#scrollTo=SU42YQFWypsf&line=1&uniqifier=1
+
+
 
 
