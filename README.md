@@ -100,27 +100,16 @@ Also we can see people tends to rent less or no bike during no functioning day.
 |Name|Train_Time|Train_R2_Score|Test_R2_Score|Test_RMSE_Score|
 |---|---|---|---|---|
 |LinearRegression	|0.008595	|0.647891	|0.658364	|6.435239|
-|---|---|---|---|---|
 |Lasso	|0.008617	|0.636225	|0.643483	|6.573891
-
 |Ridge	|0.006999	|0.647891	|0.658356	|6.435309
-
 |KNeighborsRegressor	|0.026799	|0.759540	|0.634925	|6.652328
-
 |SVR	|1.694278	|0.457188	|0.465150	|8.051900
-
 |DecisionTree	|0.043268	|1.000000	|0.796217	|4.970115
-
 |RandomForest	|2.709142	|0.985689	|0.888823	|3.671046
-
 |ExtraTreeRegressor |1.870717	|1.000000	|0.895523	|3.558714
-
 |GradientBoostingRegressor	|0.893459	|0.888886	|0.872145	|3.936779
-
 |XGBRegressor	|0.538134	|0.977729	|0.898301	|3.511089
-
 |Light-GBM	|0.191949	|0.970815	|0.907160	|3.354671
-
 |MLPRegressor	|2.435042	|0.046814	|0.043449	|10.768041
 
 
